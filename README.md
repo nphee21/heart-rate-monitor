@@ -4,12 +4,6 @@ An ESP32-based heart rate monitor. An analog pulse sensor measures the pulse wav
 
 Team project for the course [add course name, e.g. "Hệ thống nhúng"] at Ho Chi Minh City University of Technology (HCMUT).
 
-## Team
-
-| Member | Role |
-|---|---|
-| [Name] | [e.g. firmware, algorithm] |
-| Ngo Phi Hao | [your part, e.g. hardware, testing] |
 
 ## Features
 
